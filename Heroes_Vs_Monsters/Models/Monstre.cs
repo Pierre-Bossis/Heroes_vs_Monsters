@@ -22,9 +22,5 @@ namespace Heroes_Vs_Monsters.Models
             Y = 5;
         }
         #endregion
-
-        #region Methods
-
-        #endregion
     }
 }
