@@ -18,8 +18,8 @@ namespace Heroes_Vs_Monsters.Models
         public Monstre()
         {
             Or = De.De6();
-            X = 10;
-            Y = 5;
+            X = De.DeStart();
+            Y = De.DeStart();
         }
         #endregion
     }
